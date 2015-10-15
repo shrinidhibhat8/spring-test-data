@@ -19,5 +19,6 @@ public class App
     {
     	SpringApplication.run(App.class, args);
         log.info( "*****Server Started******" );
+        log.info( "***** >:) >:) Server Stopped >:) >:) ******" );
     }
 }
