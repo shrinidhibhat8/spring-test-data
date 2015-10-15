@@ -1,0 +1,6 @@
+com/test/plavaga/service/DepartmentService.class
+com/test/plavaga/repository/DepartmentRepository.class
+com/test/plavaga/model/Department.class
+com/test/plavaga/App.class
+com/test/plavaga/controller/DepartmentController.class
+com/test/plavaga/service/DepartmentServiceImpl.class
