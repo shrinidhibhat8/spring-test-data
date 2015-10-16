@@ -20,5 +20,6 @@ public class App
     	SpringApplication.run(App.class, args);
         log.info( "*****Server Started******" );
         log.info( "***** >:) >:) Server Stopped >:) >:) ******" );
+        log.info( "***** >:) >:) Black and White kannu unna paatha color ah maaruthu >:) >:) ******" );
     }
 }
